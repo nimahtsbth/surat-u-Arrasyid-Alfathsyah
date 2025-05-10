@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Untuk Arrasyid</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fff0f5, #ffe6f0);
+      color: #333;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    h1 {
+      color: #cc3366;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.1em;
+      max-width: 700px;
+      margin: 20px auto;
+      line-height: 1.8;
+      text-align: left;
+    }
+    .heart {
+      font-size: 3em;
+      color: #ff4d6d;
+      margin-bottom: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="heart">💌</div>
+  <h1>Hai Arrasyid</h1>
+  <p>
+    Cid, gue ngerasa gak adil aja, di saat semesta dan langit tau tentang perasaan ini tapi lu sendiri gatau.  
+    Berawal dari rasa kagum, perasaan ini tumbuh menjadi rasa suka yang akan hilang sampai Allah sendiri yang mencabutnya.
+  </p>
+  <p>
+    Maksud dan tujuan menyampaikan ini engga berharap respon atau bahkan dibalas perasaan.  
+    Perasaan gue tanggung jawab gue dan perasaan lu tanggung jawab lu sendiri.
+  </p>
+  <p>
+    Sampai ditulisnya surat ini, mungkin perasaan gue sedang proses memudar. Hidup akan terus berjalan kan?  
+    Gue yakin Tuhan yang ngasih perasaan ini dan Tuhan juga yang akan mencabutnya.
+  </p>
+  <p>
+    Semoga lu dan keluarga diberi kesehatan, rezeki yang lancar, berkah selalu.  
+    Sukses ya Cid meniti karirnya, gue yakin lu akan jadi manusia yang hebat yang bisa ngasih impact baik bagi banyak orang.
+  </p>
+  <p>
+    Mungkin kalo kata Afgan, “Cintaku bukan cinta yang biasa, jika kamu yang memiliki.”  
+    Tapi kalau takdir gak ngebiarin perasaan lu dimiliki gue, dan walaupun gue bisa beli isi dunia,  
+    kalau lu cintanya sama yang lain, gue akan coba ikhlas, Cid.
+  </p>
+  <p>
+    Semoga siapapun yang nanti jadi pendamping hidup lu kelak, dia bisa mencintai lu dengan tulus.
+  </p>
+  <footer>
+    Ditulis dengan tulus oleh seseorang yang pernah mengagumimu 💫
+  </footer>
+</body>
+</html>
